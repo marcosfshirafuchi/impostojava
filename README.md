@@ -65,3 +65,10 @@ RESUMO:<br>
 Imposto bruto total: 50077.74<br>
 Abatimento: 8100.00<br>
 Imposto devido: 41977.74<br>
+
+## Ferramentas utilizadas
+
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="200" height="200"/> </a> 
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="200" height="200" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" alt="IntelliJ" width="200" height="200"/>
+     
